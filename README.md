@@ -1,5 +1,5 @@
- Hi there 👋
-
+ <h1>Hi there 👋</h1>
+ 
 
 - 🔭 I’m currently working on improving my frontend development skills and ux ui design
 - 🌱 I’m currently learning c programming, python and Javascript
