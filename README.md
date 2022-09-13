@@ -7,5 +7,4 @@
 - 🤔 I’m looking for help with react and node.js
 - 💬 Ask me about front end web development
 - 📫 How to reach me: LinkedIn Joseph Mumo
-- 😄 Pronouns: He
 - ⚡ Fun fact: Curiosity got me into Tech
