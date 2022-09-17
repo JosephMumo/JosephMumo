@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on improving my frontend development skills and ux ui design
 
-- 🌱 I’m currently learning c programming, python, Javascript,  and React js
+- 🌱 I’m currently learning c programming, python, Javascript, SQL and React js
  
 - 👯 I’m looking to collaborate on mernstack projects
 
