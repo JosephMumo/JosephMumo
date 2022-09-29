@@ -13,6 +13,6 @@
 
 - 💬 Ask me about front end web development
 
-- 📫 How to reach me: LinkedIn Joseph Mumo
+- 📫 Find me here: LinkedIn Joseph Mumo
 
 - ⚡ Fun fact: Curiosity got me into Tech
