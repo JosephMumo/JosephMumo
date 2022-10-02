@@ -3,7 +3,7 @@
 <h3>I'm Joe Mumo</h3>
  
 
-- 🔭 I’m currently working on improving my frontend development with React.js and ux ui design
+- 🔭 I’m currently working on improving my frontend development with React.js and ux ui design.
 
 - 🌱 I’m currently learning c programming, python, Javascript, SQL and React js
  
