@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning c programming, python, Javascript, SQL and React js
  
-- 👯 I’m looking to collaborate on mernstack projects
+- 👯 I’m looking to collaborate on mernstack projects.
 
 - 🤔 I’m looking for help with node.js
 
