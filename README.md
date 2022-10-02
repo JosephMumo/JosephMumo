@@ -11,7 +11,7 @@
 
 - 🤔 I’m looking for help with node.js
 
-- 💬 Ask me about front end web development
+- 💬 Ask me about front end web development.
 
 - 📫 Find me here: LinkedIn Joseph Mumo.
 
