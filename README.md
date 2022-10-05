@@ -9,7 +9,7 @@
  
 - 👯 I’m looking to collaborate on mernstack projects.
 
-- 🤔 I’m looking for help with node.js
+- 🤔 I’m looking for help with node.js projects
 
 - 💬 Ask me about front end web development.
 
