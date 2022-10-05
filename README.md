@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
  
-<h3>I'm Joe Mumo.</h3>
+<h3>I'm Joseph Mumo.</h3>
  
 
 - 🔭 I’m currently working on improving my frontend development with React.js and ux ui design.
