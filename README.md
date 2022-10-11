@@ -2,6 +2,7 @@
  
 <h2>I'm Joseph Mumo.</h2>
  
+![cartoon2](https://user-images.githubusercontent.com/51504499/195087984-f8620dff-675e-4519-b288-9a872abe924e.png)
 
 - 🔭 I’m currently working on improving my frontend development with React.js and ux ui design.
 
@@ -16,4 +17,3 @@
 - 📫 Find me here: LinkedIn Joseph Mumo and Twitter @finesserKe
 
 - ⚡ Fun fact: Curiosity got me into Tech.
-![cartoon2](https://user-images.githubusercontent.com/51504499/195087984-f8620dff-675e-4519-b288-9a872abe924e.png)
