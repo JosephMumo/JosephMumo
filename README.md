@@ -12,7 +12,7 @@
 
 - 🤔 I’m looking for help with node.js projects
 
-- 💬 Ask me about front end web development.
+- 💬 Ask me about front end web development and ui ux design.
 
 - 📫 Find me here: LinkedIn Joseph Mumo and Twitter @finesserKe
 
