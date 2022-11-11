@@ -16,4 +16,4 @@
 
 - 📫 Find me here: LinkedIn Joseph Mumo and Twitter @finesserKe
 
-- ⚡ Fun fact: Curiosity got me into Tech ...
+- ⚡ Fun fact: Curiosity got me into Tech .
