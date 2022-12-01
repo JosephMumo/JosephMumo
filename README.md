@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
  
-<h2>I'm Joe.</h2>
+<h2>My name is Joe.</h2>
  
 ![cartoon2](https://user-images.githubusercontent.com/51504499/195087984-f8620dff-675e-4519-b288-9a872abe924e.png)
 
