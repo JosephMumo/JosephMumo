@@ -16,4 +16,4 @@
 
 - 📫 Find me here: LinkedIn Joseph Mumo and Twitter @finesserKe
 
-- ⚡ Fun fact: Love got me into Tech..
+- ⚡ Fun fact: Love got me into Tech...
