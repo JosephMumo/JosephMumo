@@ -14,6 +14,6 @@
 
 - 💬 Ask me about front end web development, ui ux design and prototyping.
 
-- 📫 Find me here: LinkedIn Joseph Mumo and Twitter @finesserKe
+- 📫 Find me here: LinkedIn Joseph Mumo and Twitter @joemumo_
 
 - ⚡ Fun fact: Curiosity got me to tech.
