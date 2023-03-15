@@ -10,7 +10,7 @@
  
 - 👯 I’m looking to collaborate on mernstack projects.
 
-- 🤔 I’m looking for help with node.js projects
+- 🤔 I’m looking for help with React.js projects
 
 - 💬 Ask me about front end web development, ui ux design and prototyping.
 
