@@ -19,11 +19,11 @@
 - ⚡ Fun fact: Curiosity got me to tech.
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ro61zzy&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JosephMumo&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ro61zzy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephMumo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
  
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=ro61zzy.visitor-badge.issue.12&left_color=#800000&right_color=white).
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=JosephMumo.visitor-badge.issue.12&left_color=#800000&right_color=white).
