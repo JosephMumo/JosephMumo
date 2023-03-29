@@ -1,7 +1,7 @@
 <h1>Hey 👋</h1>
  
 <h2>Joe here.</h2>
-<p>I'm a frontend software engineer and a UX/UI designer focused on delivering a clean and functional client side solutions.</p>
+<h2>I'm a frontend software engineer and a UX/UI designer focused on delivering a clean and functional client side solutions.</h2>
  
 ![cartoon2](https://user-images.githubusercontent.com/51504499/195087984-f8620dff-675e-4519-b288-9a872abe924e.png)
 
