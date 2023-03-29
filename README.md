@@ -1,4 +1,4 @@
-<h1>Hey 👋</h1>
+<h1>Hey there!! 👋</h1>
  
 <h2>Joe here.</h2>
 <h2>I'm a frontend software engineer and a UX/UI designer focused on delivering a clean and functional client side solutions.</h2>
