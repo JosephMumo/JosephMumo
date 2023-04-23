@@ -5,7 +5,7 @@
  
 ![cartoon2](https://user-images.githubusercontent.com/51504499/195087984-f8620dff-675e-4519-b288-9a872abe924e.png)
 
-- 🔭 I’m currently working on improving my frontend development with React.js and ux ui design.
+- 🔭 I’m currently working on improving my frontend development with Javascript,React.js and ux ui design.
 
 - 🌱 I’m currently learning c programming, python, Javascript, SQL and React js
  
