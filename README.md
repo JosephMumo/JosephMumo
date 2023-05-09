@@ -18,7 +18,7 @@
 - 📫 Find me here: LinkedIn Joseph Mumo and Twitter @joemumo_
  
 
-- ⚡ Fun fact: Love got me to tech.
+- ⚡ Fun fact: Curiosity got me to tech.
 <br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JosephMumo&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
