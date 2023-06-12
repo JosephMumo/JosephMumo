@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on improving my frontend development with Javascript,React.js and ux ui design.
 
-- 🌱 I’m currently learning c programming, python, Javascript, SQL and React js
+- 🌱 I’m currently learning NodeJs, MongoDB and ExpressJs
  
 - 👯 I’m looking to collaborate on mernstack projects.
 
-- 🤔 I’m looking for help with React.js projects
+- 🤔 I’m looking for help with Backend development
 
-- 💬 Ask me about front end web development, ui ux design and prototyping.
+- 💬 Ask me about front end web development, Javascript and ReactJs.
 
 - 📫 Find me here: LinkedIn Joseph Mumo and Twitter @joemumo_
  
